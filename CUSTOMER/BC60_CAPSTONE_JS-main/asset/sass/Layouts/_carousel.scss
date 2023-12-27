@@ -1,0 +1,52 @@
+.size {
+    width: 25%;
+}
+
+.section-title {
+    text-align: center;
+    color: blue;
+    padding-bottom: 15px;
+    font-size: 40px;
+}
+
+.sizeCol{
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgba(128, 128, 128, 0.5);
+}
+.sizeImage {
+    width: 100%;
+}
+.cardPhone__rating {
+    color: rgb(237, 237, 51);
+}
+.cardPhone__title {
+    font-size: 25px;
+}
+.cardphone__eye {
+    border: none;
+    border-radius: 50%;
+    padding: 0px;
+    background-color: #fff;
+}
+.cardphone__eye:hover {
+    background-color: none;
+    color: inherit;
+    border-color: inherit;
+    box-shadow: none;
+}
+.cardphone__eye i {
+    color: black;
+}
+.cardphone__eye:active, 
+.cardphone__eye:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+.btnPhone-shadow {
+    color: #2a73dd;
+    font-size: 15px;
+    border: 1px;
+}
